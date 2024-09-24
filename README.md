@@ -3,7 +3,7 @@
 This project serves as the Kafka Consumer for the main e-commerce platform developed under the Ecommerce-SpringBoot Project. It is designed to handle and process messages produced by the e-commerce API, ensuring smooth and efficient event-driven communication between the microservices.
 
 ## Diagram for the application
-![Producer-Consumer Kafka](https://github.com/user-attachments/assets/779d99be-cd37-42ec-bceb-19c0693dd984)
+![Producer-Consumer Kafka](https://github.com/user-attachments/assets/779d99be-cd37-42ec-bceb-19c0693dd984 100x20)
 
 
 ## Key Features:
