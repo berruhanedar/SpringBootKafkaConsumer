@@ -18,3 +18,6 @@ Scalable Architecture: Built with Spring Boot and Kafka, the system is designed 
 * Spring Boot
 * Maven
 * Apache Kafka
+
+## Kafka Ecosystem
+![KAFKA drawio](https://github.com/user-attachments/assets/2de09e50-3556-48b6-8a72-7869c9a0f140)
